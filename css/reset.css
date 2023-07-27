@@ -1,0 +1,10 @@
+* {margin: 0;padding: 0;vertical-align: middle;box-sizing: border-box;}
+html {width:100%;height:100%; overflow: auto; scroll-behavior: smooth;}
+html.on {overflow: hidden;}
+body {font: normal 14px/1 'Montserrat', 'Nanum Gothic';color:#333;background: #fff;}
+ul {list-style: none;}
+a {color:rgb(70, 70, 70);text-decoration: none;}
+.hide {display: none;}
+h1,h2,h3,h4,h5,h6,strong,b {
+    font-weight: normal;
+}

@@ -1,0 +1,52 @@
+1. 
+git init
+
+2. 
+git config user.name 'qwefg'
+git config user.email 'avwds@naver.com'
+
+git config -l // 환경설정 확인 컨피그 전체확인
+
+3. 
+git remote add origin https://github.com/kokokokokokokolee/wed10.git
+git remote -v
+
+origin  https://github.com/kokokokokokokolee/wed10.git (fetch) - 가져오기
+origin  https://github.com/kokokokokokokolee/wed10.git (push) - 올리기 
+
+
+4. 스테이징
+git add .
+
+5. 커밋
+git commit -m '웨딩홈페이지 배포'
+
+6. 푸쉬
+git push origin master 
+
+7. 새로고침
+
+8. 깃허브 페이지 settings
+
+9. git hub page --> branch --> master --> save
+
+10.
+1 ~ 3분 기다리고 새로고침 
+그러면 배포 주소가 보입니다/
+
+
+
+맘에 안 들어서 다시 올리고 싶어요 ~~ 
+
+삭제하는 방법
+git remote add origin  추가 
+git remote remove origin  삭제
+
+화면 청소 clear
+
+
+1 ~ 3분 기다리고 새로고침 
+그러면 배포 주소가 보입니다/
+
+
+https://kokokokokokokolee.github.io/wed10/
